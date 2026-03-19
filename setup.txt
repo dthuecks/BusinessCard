@@ -1,7 +1,42 @@
 sudo apt update
 
-sudo apt install texlive (recommended, not full, installation)
+sudo apt install texlive-full (recommended, not full, installation)
 
 sudo apt install texlive-latex-extra texlive-fonts-recommended
 
-xelatex bcard.tex
+Install LaTeX Workshop by James Yu
+
+Install the code snippet INSIDE the {} within the json file.
+    Open the json file by pressing shift+ctrl+P and type open user settings json
+
+Run using command: xelatex bcard.tex
+
+
+
+
+
+Snippet:
+"latex-workshop.latex.tools": [
+    {
+        "name": "xelatexmk",
+        "command": "latexmk",
+        "args": [
+            "-xelatex",
+            "-synctex=1",
+            "-interaction=nonstopmode",
+            "-file-line-error",
+            "%DOC%"
+        ]
+    },
+    // ... other tools can be kept or removed
+],
+"latex-workshop.latex.recipes": [
+    {
+        "name": "xelatexmk",
+        "tools": [
+            "xelatexmk"
+        ]
+    },
+    // ... other recipes can be kept or removed
+],
+"latex-workshop.latex.recipe.default": "xelatexmk" // Set this to the new recipe name

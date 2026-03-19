@@ -1,0 +1,77 @@
+\documentclass[11pt,a4paper]{memoir}
+
+\usepackage{graphicx}
+\usepackage{fontspec}  
+\usepackage{verbatim}
+
+% ######## Uncomment to use MillerText font ###########
+% ######## Washington College official Serif font #####
+\begin{comment}              
+\setmainfont{MillerText}[            % or "MillerDisplay"
+  Path = ./fonts/,      % If not in system font folder
+  Extension = .otf,
+  UprightFont = *-Roman,
+  ItalicFont = *-Italic,
+  BoldFont = *-Bold,
+  BoldItalicFont = *-BoldItalic
+]
+\end{comment}
+
+% ###### Use BretonSans font ################
+% ###### Washington College official sans serif font #####
+\setmainfont{BentonSans}[
+  Path = ./fonts/,      % If not in system font folder
+  Extension = .otf,
+  UprightFont = *-Regular,
+  ItalicFont = *-Italic,
+  BoldFont = *-Bold,
+  BoldItalicFont = *-BoldItalic
+]
+
+% Set the dimensions of the card to 3.5" x 2"
+% with appropriate margins
+\setstocksize{2in}{3.5in}
+\setpagecc{2in}{3.5in}{*}
+\settypeblocksize{1.7in}{3.3in}{*}
+\setulmargins{0.1in}{*}{*}
+\setlrmargins{0.1in}{*}{*}
+
+\setheadfoot{0.1pt}{0.1pt}
+\setheaderspaces{1pt}{*}{*}
+\checkandfixthelayout[fixed]
+
+\pagestyle{empty}
+
+\begin{document}
+
+\begin{Spacing}{1.00}
+\noindent
+\tiny
+%-------------- College logo -------------------
+\begin{minipage}[t]{0.4\textwidth}
+  \begin{center}
+    \vspace{0pt}
+    \includegraphics[width=1.0\textwidth]{./graphics/wc-logo-2line_shield_maroon.png}\\
+  \end{center}
+\end{minipage}
+%
+\hfill
+%----------- Personal info -------------------
+\begin{minipage}[t][0.9\textheight]{0.5\textwidth}
+\vspace{0pt}
+\textbf{Derek J Thuecks (he/him)} \\
+Associate Professor\\
+\vfill
+\textbf{Department of Physics} \\
+Washington College \\
+300 Washington Avenue \\
+Chestertown, MD 21620, U.S.A.\\
+\vfill
+\textsc{Phone:} (410) 778-7769 \\
+\textsc{Email:} dthuecks2@washcoll.edu \\
+\textsc{Web:} dthuecks.github.io/ \\
+\vfill
+\end{minipage}
+
+\end{Spacing}
+\end{document}
