@@ -2,7 +2,17 @@
 
 Here are \LaTeX commands for six versions of a Washington College business card; three cards have a vertically-stacked college logo and three cards have a horizontal college logo.
 
-I started from a business card template at https://andrewraim.github.io/software/latex-business-card, modifying commands to reflect my desired styles.
+I started from a business card template at https://andrewraim.github.io/software/latex-business-card, modifying commands to reflect my desired styles. Official college fonts and logos were provided by Washington College Marketing and Communications. The maroon color of the college logo was extracted and found to be specified by `HEX #8b2333` but can alternatively be specified as:
+```
+HEX #8b2333
+HSL 351, 60, 34
+RGB 139, 35, 51
+XYZ 12, 7, 4
+CMYK 0, 75, 63, 45
+LUV 32, 80, 9
+LAB 32, 44, 17
+HWB 351, 14, 45
+```
 
 ## Codespace setup
 
