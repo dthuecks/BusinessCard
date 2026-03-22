@@ -2,6 +2,14 @@
 
 Here are $\LaTeX$ commands for six versions of a Washington College business card; three cards have a vertically-stacked college logo and three cards have a horizontal college logo.
 
+[Horizontal Logo (version 1)](bcard-horiz-logo.pdf)  
+[Horizontal Logo (version 2)](bcard-horiz-logo-v2.pdf)  
+[Horizontal Logo (version 3)](bcard-horiz-logo-v3.pdf)  
+
+[Stacked Logo (version 1)](bcard-stacked-logo.pdf)  
+[Stacked Logo (version 2)](bcard-stacked-logo-v2.pdf)  
+[Stacked Logo (version 3)](bcard-stacked-logo-v3.pdf)
+
 I started from a business card template at https://andrewraim.github.io/software/latex-business-card, modifying commands to reflect my desired styles. Official college fonts and logos were provided by Washington College Marketing and Communications. The maroon color of the college logo was extracted and found to be specified by `HEX #8b2333` but can alternatively be specified as:
 ```
 HEX #8b2333
