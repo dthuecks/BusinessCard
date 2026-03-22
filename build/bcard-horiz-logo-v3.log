@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.3.19)  20 MAR 2026 20:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2026.3.19)  22 MAR 2026 20:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/workspaces/BusinessCard/bcard-stacked-logo-v2.tex
-(/workspaces/BusinessCard/bcard-stacked-logo-v2.tex
+**/workspaces/BusinessCard/bcard-horiz-logo-v3.tex
+(/workspaces/BusinessCard/bcard-horiz-logo-v3.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
@@ -567,11 +567,11 @@ Package fontspec Info: Font family 'BentonSans(0)' created for font
 Stock height and width: 144.54pt by 252.94499pt
 Top and edge trims: 0pt and 0pt
 Page height and width: 144.54pt by 252.94499pt
-Text height and width: 122.85876pt by 238pt
-Spine and edge margins: 7.22743pt and 7.22635pt
-Upper and lower margins: 7.22743pt and 14.4538pt
-Headheight and headsep: 0.1pt and 6.12743pt
-Footskip: 0.1pt
+Text height and width: 144.54pt by 252pt
+Spine and edge margins: 0pt and 0pt
+Upper and lower margins: 0pt and 0pt
+Headheight and headsep: 0pt and 0pt
+Footskip: 0pt
 Columnsep and columnseprule: 10pt and 0pt
 Marginparsep and marginparwidth: 7pt and 1pt
 Sidecapsep and sidecapwidth: 7pt and 101pt
@@ -582,8 +582,8 @@ Sidefoothsep and sidefootwidth: 7pt and 101pt
 Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 ******************************************************
 
-(./bcard-stacked-logo-v2.aux)
-\openout1 = `bcard-stacked-logo-v2.aux'.
+(build/bcard-horiz-logo-v3.aux)
+\openout1 = `bcard-horiz-logo-v3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
 LaTeX Font Info:    ... okay on input line 50.
@@ -662,41 +662,25 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 50.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 50.
-Package mdframed Info: mdframed works in twoside mode on input line 57.
-File: ./graphics/wc-logo-2line_shield_white.png Graphic file (type bmp)
-<./graphics/wc-logo-2line_shield_white.png>
-Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 62.
+Package mdframed Info: mdframed works in twoside mode on input line 52.
+File: ./graphics/wc-logo-1line_shield_white.png Graphic file (type bmp)
+<./graphics/wc-logo-1line_shield_white.png>
+Package mdframed Info: Not enough space on this page on input line 58.
+ [1
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--71
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--76
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--80
-
- []
-
-[1
-
-] (./bcard-stacked-logo-v2.aux)
+] (build/bcard-horiz-logo-v3.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9491 strings out of 474878
- 201882 string characters out of 5762516
+ 9494 strings out of 474878
+ 201998 string characters out of 5762516
  1919627 words of memory out of 5000000
- 31440 multiletter control sequences out of 15000+600000
- 558181 words of font info for 50 fonts, out of 8000000 for 9000
+ 31441 multiletter control sequences out of 15000+600000
+ 558189 words of font info for 51 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 85i,10n,93p,488b,385s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,10n,93p,486b,300s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on bcard-stacked-logo-v2.xdv (1 page, 3300 bytes).
+Output written on build/bcard-horiz-logo-v3.xdv (1 page, 3500 bytes).

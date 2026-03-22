@@ -45,6 +45,7 @@ Then, the codespace user settings file was modified to make XeLaTeX the default 
             "-synctex=1",
             "-interaction=nonstopmode",
             "-file-line-error",
+            "-aux-directory=build",
             "%DOC%"
         ]
     },

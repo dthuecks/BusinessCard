@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1774039091.08491 "bcard-horiz-logo-v2.xdv" "bcard-horiz-logo-v2.pdf" "bcard-horiz-logo-v2" 1774039092.9457 0
-  "bcard-horiz-logo-v2.xdv" 1774039090.9069 3392 b5398c74d33d210bab590a7866992b43 "xelatex"
+["xdvipdfmx"] 1774211222.5476 "build/bcard-horiz-logo-v3.xdv" "bcard-horiz-logo-v3.pdf" "bcard-horiz-logo-v3" 1774211223.21441 0
+  "build/bcard-horiz-logo-v3.xdv" 1774211222.47552 3500 3968589647c01e2ca6a0294dd0a8e17e "xelatex"
   (generated)
-  "bcard-horiz-logo-v2.pdf"
+  "bcard-horiz-logo-v3.pdf"
   (rewritten before read)
-["xelatex"] 1774039089.30424 "/workspaces/BusinessCard/bcard-horiz-logo-v2.tex" "bcard-horiz-logo-v2.xdv" "bcard-horiz-logo-v2" 1774039092.94229 0
+["xelatex"] 1774211221.6085 "/workspaces/BusinessCard/bcard-horiz-logo-v3.tex" "build/bcard-horiz-logo-v3.xdv" "bcard-horiz-logo-v3" 1774211223.21211 0
   "/etc/texmf/web2c/texmf.cnf" 1773954087.98889 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty" 1576625273 7734 b98cbb34c81f667027c1e3ebdbfce34b ""
   "/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty" 1576625223 8371 9d55b8bd010bc717624922fb3477d92e ""
@@ -57,12 +57,12 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1773954243 10838823 3dc716ca97df00e354c2434bd426e34a ""
-  "/workspaces/BusinessCard/bcard-horiz-logo-v2.tex" 1774039088.9229 2471 1a0c7d12b3b07f408172a13f999a122b ""
-  "bcard-horiz-logo-v2.aux" 1774039090.9049 242 221f2c15393f44eb6fa61906c256928f "xelatex"
-  "bcard-horiz-logo-v2.tex" 1774039088.9229 2471 1a0c7d12b3b07f408172a13f999a122b ""
+  "/workspaces/BusinessCard/bcard-horiz-logo-v3.tex" 1774104808.89043 2409 5b54145459945c37544f83f20f0c9383 ""
+  "bcard-horiz-logo-v3.tex" 1774104808.89043 2409 5b54145459945c37544f83f20f0c9383 ""
+  "build/bcard-horiz-logo-v3.aux" 1774211222.47552 242 221f2c15393f44eb6fa61906c256928f "xelatex"
   "graphics/wc-logo-1line_shield_white.png" 1773956251.63399 92972 db03ac1207ce7b1a8565b6dbde58b81c ""
   (generated)
-  "bcard-horiz-logo-v2.aux"
-  "bcard-horiz-logo-v2.log"
-  "bcard-horiz-logo-v2.xdv"
+  "build/bcard-horiz-logo-v3.aux"
+  "build/bcard-horiz-logo-v3.log"
+  "build/bcard-horiz-logo-v3.xdv"
   (rewritten before read)

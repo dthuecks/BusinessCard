@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1773961340.92729 "bcard-stacked-logo.xdv" "bcard-stacked-logo.pdf" "bcard-stacked-logo" 1773961342.08016 0
-  "bcard-stacked-logo.xdv" 1773961340.69722 2812 1315cf66c5fec08b061fec8497c2585c "xelatex"
+["xdvipdfmx"] 1774211215.47268 "build/bcard-horiz-logo.xdv" "bcard-horiz-logo.pdf" "bcard-horiz-logo" 1774211216.22488 0
+  "build/bcard-horiz-logo.xdv" 1774211215.41552 2900 b90bcdb186167b4d74e247fd798a75c1 "xelatex"
   (generated)
-  "bcard-stacked-logo.pdf"
+  "bcard-horiz-logo.pdf"
   (rewritten before read)
-["xelatex"] 1773961339.25143 "/workspaces/BusinessCard/bcard-stacked-logo.tex" "bcard-stacked-logo.xdv" "bcard-stacked-logo" 1773961342.07676 0
+["xelatex"] 1774211214.72605 "/workspaces/BusinessCard/bcard-horiz-logo.tex" "build/bcard-horiz-logo.xdv" "bcard-horiz-logo" 1774211216.22335 0
   "/etc/texmf/web2c/texmf.cnf" 1773954087.98889 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty" 1576625223 8371 9d55b8bd010bc717624922fb3477d92e ""
   "/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -43,12 +43,12 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1773954243 10838823 3dc716ca97df00e354c2434bd426e34a ""
-  "/workspaces/BusinessCard/bcard-stacked-logo.tex" 1773961338.90522 1897 771d02aec62d4e9300336fb2741b465a ""
-  "bcard-stacked-logo.aux" 1773961340.69322 127 5d5fdbdd5893a514e79fe4bbeb55f876 "xelatex"
-  "bcard-stacked-logo.tex" 1773961338.90522 1897 771d02aec62d4e9300336fb2741b465a ""
-  "graphics/wc-logo-2line_shield_maroon.png" 1773956271.71599 104189 ece9a342a77bae6d7a53c22c9faa04a8 ""
+  "/workspaces/BusinessCard/bcard-horiz-logo.tex" 1773955993.36797 2292 1e6e35a7db860700c7b179b8273f0e12 ""
+  "bcard-horiz-logo.tex" 1773955993.36797 2292 1e6e35a7db860700c7b179b8273f0e12 ""
+  "build/bcard-horiz-logo.aux" 1774211215.41252 127 5d5fdbdd5893a514e79fe4bbeb55f876 "xelatex"
+  "graphics/wc-logo-1line_shield_maroon.png" 1773956251.60299 103734 4a65cece738fdc50cb998bb552e406cc ""
   (generated)
-  "bcard-stacked-logo.aux"
-  "bcard-stacked-logo.log"
-  "bcard-stacked-logo.xdv"
+  "build/bcard-horiz-logo.aux"
+  "build/bcard-horiz-logo.log"
+  "build/bcard-horiz-logo.xdv"
   (rewritten before read)
